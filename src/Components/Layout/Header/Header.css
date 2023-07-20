@@ -1,0 +1,17 @@
+.Header {
+	background-color:  bisque;
+	/* display: flex;
+	flex-direction: column; */
+	
+}
+.Header h1
+{	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.Header .icons{
+	display: flex;
+	flex-direction: row;
+	/* align-items: center;
+	 */justify-content:space-evenly;
+}
